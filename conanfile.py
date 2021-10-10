@@ -5,7 +5,7 @@ import os
 class CistaConan(ConanFile):
     name = "cista"
     description = (
-        "Cista++ is a simple, open source (MIT license) C++17"
+        "Cista++ is a simple, open source (MIT license) C++17 "
         "compatible way of (de-)serializing C++ data structures."
     )
     license = "MIT"
